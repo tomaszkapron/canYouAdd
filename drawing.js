@@ -1,5 +1,5 @@
 const BLACK_COLOR = '#000000'
-const LINE_WIDTH = 10;
+const LINE_WIDTH = 15;
 
 var currentX = 0;
 var currentY = 0;
